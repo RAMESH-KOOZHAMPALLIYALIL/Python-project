@@ -1,5 +1,5 @@
-# Created by Ramesh Koozhampalliyalil 
-## Python-project
+#Created by Ramesh Koozhampalliyalil 
+# Python-project
  Employee Data Analysis Project  This project analyzes employee data from ABC company, providing insights into team distribution, position segregation, age groups, salary expenditure, and the correlation between age and salary.
 1. **Data Preprocessing:** Corrects the 'height' column by replacing existing values with random numbers within a specified range.  Handles missing (null) values in the dataset using imputation (filling with appropriate values like median or mode) to ensure data integrity for analysis.
 
